@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1791400372 source:c:\users\administrator\onedrive\documents\door lock\main.c
+	<stdio.h>
+	<stdlib.h>
+
